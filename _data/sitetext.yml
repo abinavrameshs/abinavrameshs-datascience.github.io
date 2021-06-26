@@ -6,15 +6,15 @@ header:
 
 services:
     title: "Skills"
-    text: "Top Skills - Rated out of 10"
+    text: "Top Skills - Rated out of 5"
     section: services
     list:
       - title: "Python" #<i class="fa-duotone fa-square-9"></i>
-        icon: fas fa-circle-9 #find more at https://fontawesome.com/icons
+        icon: fas fa-dice-five #find more at https://fontawesome.com/icons
       - title: "SQL"
-        icon: fas fa-laptop  
+        icon: fas fa-dice-five  
       - title: "R"
-        icon: fas fa-laptop   
+        icon: fas fa-dice-four  
       - title: "Hive"
         icon: fas fa-laptop   
       - title: "MicroStrategy, Tableau, Power BI"
