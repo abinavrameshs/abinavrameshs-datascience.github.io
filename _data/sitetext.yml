@@ -2,7 +2,7 @@ header:
     title: Welcome To the Data Science Portfolio of Abinav Ramesh!!
     text: It's Nice To Meet You
     button: Click here to know about my projects
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
 services:
     title: "Skills"
@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "Python"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-9x #find more at https://fontawesome.com/icons
       - title: "SQL"
         icon: fas fa-laptop  
       - title: "R"
