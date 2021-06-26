@@ -9,7 +9,7 @@ services:
     text: "Top Skills - Rated out of 10"
     section: services
     list:
-      - title: "Python"
+      - title: "Python" #<i class="fa-duotone fa-square-9"></i>
         icon: fas fa-9 #find more at https://fontawesome.com/icons
       - title: "SQL"
         icon: fas fa-laptop  
