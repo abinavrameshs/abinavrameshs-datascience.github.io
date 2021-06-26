@@ -1,5 +1,5 @@
 nav:
-  - title: "Services"
+  - title: "Skills"
     section: services
 
   - title: "Projects"
@@ -8,11 +8,11 @@ nav:
   - title: "About"
     section: timeline
 
-  - title: "Team"
-    section: team
+  #- title: "Team"
+  #  section: team
 
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "Resume"
+    url: https://github.com/abinavrameshs/abinav_resume/blob/main/Abinav_Ramesh_Resume.pdf

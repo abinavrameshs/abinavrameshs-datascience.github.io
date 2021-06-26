@@ -5,18 +5,27 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Skills"
+    text: "Top Skills - Rated out of 10"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Python"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
+      - title: "SQL"
+        icon: fas fa-laptop  
+      - title: "R"
+        icon: fas fa-laptop   
+      - title: "Hive"
+        icon: fas fa-laptop   
+      - title: "MicroStrategy, Tableau, Power BI"
+        icon: fas fa-laptop 
+      - title: "Machine Learning, Deep Learning"
+        icon: fas fa-laptop      
+      - title: "Spark"
+        icon: fas fa-laptop    
+      - title: "Hadoop"
+        icon: fas fa-laptop           
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
 portfolio:
@@ -28,6 +37,7 @@ portfolio:
 
 timeline:
     title: "About" 
+    image: assets/img/timeline/bell_200_200.jpg
     text: "Hi, I am a Data Science professional with almost 4 years of experience in the field of Analytics and Data Science.I consider myself as a problem solver, who is passionate to help people and organizations with my data analytics and Machine learning skills and improve their bottom line.I am also a fun and enthusiastic person who is willing to explore and constantly learning. I am open to any kind of Data-related opportunity, where I can utilize my Analytics-related expertise to help the world become a better place.Please feel free to keep in touch with me at abinav.sundararaman@mail.mcgill.ca"
     section: timeline
     # left is the default
@@ -36,22 +46,22 @@ timeline:
       - title: "National Institute of Technology Karnataka"
         year: "JUL 2012 - JUL 2016"
         desc: "Bachelors of Technology in Electronics and Communication Engineering"
-        image: assets/img/timeline/NITK.png
+        image: assets/img/timeline/NITK_200_200.jpg
         alt: Bachelors Degree
       - title: "Deloitte Consulting"
         year: "AUG 2016 - JUL 2018"
         desc: "Worked as a Business Technology Analyst (SAP Analytics) for 2 years on SAP HANA and SAP Business Objects. Served as a System Integration Tester for a highly renowned Healthcare insurance provider."
-        image: assets/img/timeline/deloitte.jpg
+        image: assets/img/timeline/deloitte_200_200.jpg
         alt: First place of work
       - title: "McGill University"
         year: "AUG 2018 - JUL 2019"
         desc: "Masters of Management in Analytics (MMA) from McGill University"
-        image: assets/img/timeline/mcgill.png
+        image: assets/img/timeline/mcgill_200_200.jpg
         alt: Master's degree
       - title: "Bell Mobility"
         year: "JUL 2019 - PRESENT"
         desc: "Data Science Developer at Bell Mobility"
-        image: assets/img/timeline/bell.jpg
+        image: assets/img/timeline/bell_200_200.jpg
         alt: Bell Mobility
         # you can enforce the aligment
         align: right
@@ -62,60 +72,60 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
     
-team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#team:
+#    title: "OUR AMAZING TEAM"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, #quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#    section: team
+#    people:
+#      - name: "Kay Garland"
+#        role: "Lead Designer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Larry Parker"
+#        role: "Lead Marketer"
+#        image: assets/img/team/2.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Diana Perterson"
+#        role: "Lead Developer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Me"
