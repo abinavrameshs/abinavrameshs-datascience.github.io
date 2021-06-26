@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "Python"
-        icon: fas fa-9x #find more at https://fontawesome.com/icons
+        icon: fas fa-9 #find more at https://fontawesome.com/icons
       - title: "SQL"
         icon: fas fa-laptop  
       - title: "R"
