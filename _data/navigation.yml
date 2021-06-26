@@ -8,8 +8,8 @@ nav:
   - title: "About"
     section: timeline
 
-  #- title: "Team"
-  #  section: team
+  - title: "Volunteering"
+    section: team
 
   - title: "Contact"
     section: contact
