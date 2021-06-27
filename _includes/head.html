@@ -44,4 +44,17 @@
   </style>
   {% endif %}
   
+  <div class="col-md-4">
+    <ul class="list-inline social-buttons">
+{% for link in site.data.sitetext.header.social  %}
+      <li class="list-inline-item">
+  {% if link.url %}
+        <a href="{{ link.url }}">
+          {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+        </a>
+  {% endif %}
+      </li>
+{% endfor %}
+    </ul>
+  </div>
 </head>
