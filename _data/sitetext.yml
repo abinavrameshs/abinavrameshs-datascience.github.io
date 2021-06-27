@@ -3,6 +3,17 @@ header:
     text: It's Nice To Meet You
     button: Click here to know about my projects
     buttonlink: "#portfolio"
+    social:
+      - url: https://twitter.com/Abinavramesh2
+        icon: "fab fa-twitter"  
+      - url: https://www.facebook.com/abinav.ramesh.5/
+        icon: "fab fa-facebook-f"
+      - url: https://www.linkedin.com/in/abinav-ramesh-sundararaman/
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/abinavrameshs
+        icon: "fab fa-github"
+      - url: https://www.instagram.com/abinavrameshs/
+        icon: "fab fa-instagram"
 
 services:
     title: "Skills"
